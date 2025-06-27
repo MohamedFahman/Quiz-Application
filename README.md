@@ -30,8 +30,8 @@ This is a comprehensive Quiz Application developed using Spring Boot. The applic
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MohamedFahman/quizapp.git
-    cd quizapp/quizapp
+    git clone https://github.com/MohamedFahman/Quiz-Application.git
+    cd Quiz-Application/quizapp
     ```
 
 2. **Configure the database:**
